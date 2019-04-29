@@ -54,6 +54,7 @@ python real_time.py --mode input
 
 * **Raman Mohan** - [ramanmohan](https://github.com/ramanmohan)
 * **Rajesh Kumar R**
+* **Pranav Vajapeyam**
 
 
 ## Acknowledgments
